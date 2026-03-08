@@ -110,7 +110,7 @@ Using the **real Kaggle dataset**, here’s what the pipeline delivers:
 Clone the repo and install dependencies in a virtual environment.
 
 ```bash
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/eggsyconway-6174/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 
 # Create & activate virtual environment (optional but recommended)
